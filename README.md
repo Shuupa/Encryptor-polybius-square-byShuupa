@@ -22,18 +22,28 @@ In the text field, write "Monkey loves babana" and start the encryption operatio
 
 Once executed, you can see the actions performed by the program to encrypt the text in the console, as well as the encrypted text itself in the box below. <br />
 
+Now let's try to decrypt the message <br />
+
 ![DecryptOperation](https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/DecryptOperation.png) <br />
 
+Works well. The message was decrypted correctly.
+<h1>That's end</h1>
+<h3>Action codes and possible input errors are shown below</h3>
+<hr>
 This shows the post codes of the operations to be performed. They are created for debugging purposes (or just for beauty) <br />
 
-<p id="PostCodes" align="center" fontsize="14">
-  <img" src="https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/PostCodes.png"/> <br />
+<p id="PostCodes" align="center"> <br/>
+  <img src="https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/PostCodes.png"/> <br />
 </p>
 
-![PostCodes](https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/PostCodes.png) <br />
+Input error - "There is a digit in the input field" - during encryption <br />
 
 ![EncryptorInterrupted](https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/EncryptorInterrupted.png) <br />
 
+Input error - "There is a letter in the input field" - during decryption <br />
+
 ![DecryptorInterrupted](https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/DecryptorInterrupted.png) <br />
+
+Input error - "Operation not selected" <br />
 
 ![OperationInterrupted](https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/OperationInterrupted.png) <br />
