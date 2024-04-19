@@ -13,7 +13,7 @@ For example, we need to encrypt the letter Y. To do this, we find the letter Y i
   <img src="https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/MainPage.png"/> <br />
 </p>
 
-Main window. In it you can see the following components. The field for entering text for encryption-decryption is a "TextBox" component. The output field of the encrypted - decrypted text below is also a "TextBox" component, only with the IsReadOnly = true parameter. Console of the output of actions performed by the program, also being a component "TextBox" only with the parameter IsReadOnly = true. Buttons ENCRYPT and DECRYPT, which perform the function of selecting the method with which the program works. Buttons INFO in the upper right part of the window, about it <a href="PostCodes">later</a>. And buttons to start method execution. <br />
+Main window. In it you can see the following components. The field for entering text for encryption-decryption is a "TextBox" component. The output field of the encrypted - decrypted text below is also a "TextBox" component, only with the IsReadOnly = true parameter. Console of the output of actions performed by the program, also being a component "TextBox" only with the parameter IsReadOnly = true. Buttons ENCRYPT and DECRYPT, which perform the function of selecting the method with which the program works. Buttons INFO in the upper right part of the window, about it <a href="#PostCodes">later</a>. And buttons to start method execution. <br />
 
 Let's just encrypt something! <br />
 In the text field, write "Monkey loves babana" and start the encryption operation. <br />
@@ -26,8 +26,8 @@ Once executed, you can see the actions performed by the program to encrypt the t
 
 This shows the post codes of the operations to be performed. They are created for debugging purposes (or just for beauty) <br />
 
-<p align="center" fontsize="14">
-  <img id="PostCodes" src="https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/PostCodes.png"/> <br />
+<p id="PostCodes" align="center" fontsize="14">
+  <img" src="https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/PostCodes.png"/> <br />
 </p>
 
 ![PostCodes](https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/PostCodes.png) <br />
