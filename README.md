@@ -1,6 +1,6 @@
 This file shows the program workflow. (Indev!)
 
-Let's begin. The encryption method using Polybius square was invented back in Greece in the 2nd century BC. It's a table of the letters of the English alphabet. Each letter has its own number. It is determined by which row and column the letter is in. <br />
+Let's begin. The encryption method using Polybius square was invented back in Greece in the 2nd century BC. It's a table of the letters of the English alphabet (Original table on Greece). Each letter has its own number. It is determined by which row and column the letter is in. <br />
 <p align="center">
   <img src="https://github.com/Shuupa/Encryptor-polybius-square-byShuupa/blob/master/Screen/PolibiusSquare.png" width="200"/>
 </p>
